@@ -1,3 +1,4 @@
 .idea/
 BowlingKata.iml
 .gitignore
+out/
